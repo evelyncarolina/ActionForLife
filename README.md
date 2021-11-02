@@ -87,7 +87,13 @@
        <img src= "https://avatars.githubusercontent.com/u/47605743?v=4"width="150px">
       <p>Guilherme Macedo</p>
     </td>
+      </tr>
+  </tbody>
+  </table>
+
+  <div>
+   <h2 align="center">OBRIGADO!😄</h2>
+  </div>
    
-    <h2 align="center">OBRIGADO!😁</h2>
 
     
